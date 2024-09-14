@@ -3,13 +3,9 @@
 
 - 🔭 I’m currently working on [ChoreQuest](www.chore-quest.com)
 
-- 🌱 I’m currently learning **Stimulus**
+- 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on [CosTrade](Check my repo!)
-
-- 🤝 I’m looking for help with [Squawk](Check my repo!)
-
-- 👨‍💻 All of my projects will soon be available at [www.maximmccain.com](www.maximmccain.com)
+- 👨‍💻 All of my projects are available at [www.maximmccain.com](www.maximmccain.com)
 
 - 💬 Ask me about **Ruby, Physics, and the ciders I recommend.**
 
