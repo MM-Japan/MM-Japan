@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">A passionate full-stack developer from England</h3>
 
-- 🔭 I’m currently working on [ChoreQuest](www.chore-quest.com)
+- 🔭 I’m currently working on **CelebrantGPT**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [www.maximmccain.com](www.maximmccain.com)
 
